@@ -1,0 +1,99 @@
+footer {
+background: #333a41 !important;
+color: white;
+font-family: verdana;
+}
+
+a{
+    color: black;
+}
+
+p{
+    font-size: 14px !important;
+    color: white;
+
+}
+
+h6{
+    font-size: 13px;
+}
+
+body{
+    background: #333a41 !important;
+}
+
+i{
+    color: white;   
+}
+
+a{
+    color: white;
+}
+
+nav{
+	font-family: verdana;
+}
+
+
+.contenedor{
+    width: 100%;
+}
+
+
+
+.mapa {
+   width: 900px;
+   height: 350px;
+   margin: auto;
+}
+
+h5{
+    padding: 15px 4px;
+    text-align: center !important;
+    font-size:12px !important;
+}
+
+.p2{
+    text-align: justify;
+    color: white !important;
+
+
+}
+
+h4{
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+.body2{
+    background: white;
+}
+
+h1{
+    text-align: center; /**Propiedad para alinar un texto se ainea el titulo */
+    color: white;/*Se agrega el color wihite al titulo*/
+}
+h2{
+    color: #333a41;
+    font-size: 15px;
+    text-align: center;
+}
+
+h3{
+    font-size: 2px;
+    color: white;
+}
+
+.inframe{
+    width: 100% !important;
+    height: 200px;
+}
+
+.fab{
+    padding: 30px;
+    
+}
